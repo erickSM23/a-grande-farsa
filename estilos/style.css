@@ -34,6 +34,10 @@
     padding: 0px;
 }
 
+body {
+    background-color: black;
+}
+
 header {
     background-color: var(--cor1);
     background: black url("../imagens/img-capa.jpeg") repeat-x ;
@@ -48,6 +52,16 @@ header > h1 {
     padding: 38px;
     font-size: 3em;
     text-decoration: underline;
+}
+
+main {
+    min-width: 300px;
+    max-width: 1000px;
+    background-color: white;
+    margin: auto;
+    padding: 15px;
+    border-bottom-left-radius: 15px;
+    border-bottom-right-radius: 15px;
 }
 
 footer {
