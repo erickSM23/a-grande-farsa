@@ -68,15 +68,15 @@ main {
 
 main h1, h2, h3 {
     text-align: center;
-    font-family: var(--fonttexto);
+    font-family: var(--fonttitulos);
     padding: 30px;
-    font-weight: 700;
+    font-weight: 500;
     font-size: 35px;
 }
 
 p {
     text-align: center;
-    font-family: var(--fonttitulos);
+    font-family: var(--fonttexto);
     font-weight: 900;
     font-size: 25px;
     line-height: 2em;
