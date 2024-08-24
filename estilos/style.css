@@ -83,6 +83,18 @@ p {
     padding: 50px;
 }
 
+ol {
+    list-style-position: inside;
+}
+
+li {
+    padding: 10px;
+    font-size: 24px;
+    font-weight: 900;
+    line-height: 1.5em;
+    font-family: var(--fonttexto);
+}
+
 footer {
     background-color: black;
 }
