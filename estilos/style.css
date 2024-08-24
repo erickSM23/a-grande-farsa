@@ -71,14 +71,14 @@ main h1, h2, h3 {
     font-family: var(--fonttitulos);
     padding: 30px;
     font-weight: 500;
-    font-size: 40px;
+    font-size: 45px;
 }
 
 p {
     text-align: center;
     font-family: var(--fonttexto);
     font-weight: 900;
-    font-size: 25px;
+    font-size: 20px;
     line-height: 2em;
 }
 
