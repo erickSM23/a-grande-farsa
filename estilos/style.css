@@ -40,7 +40,8 @@ body {
 
 header {
     background-color: var(--cor1);
-    background: black url("../imagens/img-capa.jpeg") repeat-x ;
+    background: black url("../imagens/img-capa.jpeg") no-repeat ;
+    background-size: cover;
 
 }
 
