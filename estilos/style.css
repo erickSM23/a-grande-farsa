@@ -35,7 +35,7 @@
 }
 
 body {
-    background: black url("../imagens/espaço.jpeg");
+    background: black url("../imagens/espaço.jpeg") fixed;
 }
 
 header {
@@ -69,7 +69,6 @@ main {
 main h1, h2, h3 {
     text-align: center;
     font-family: var(--fonttitulos);
-    padding: 30px;
     font-weight: 500;
     font-size: 45px;
 }
@@ -80,6 +79,7 @@ p {
     font-weight: 900;
     font-size: 20px;
     line-height: 2em;
+    padding: 50px;
 }
 
 footer {
