@@ -16,17 +16,17 @@
 }
 
 :root{
- --cor0: #040FD9; 
- --cor1: #040DBF; 
- --cor2: #030A8C; 
- --cor3: #020659; 
- --cor4: #010440; 
+    --cor0: #040FD9; 
+    --cor1: #040DBF; 
+    --cor2: #030A8C; 
+    --cor3: #020659; 
+    --cor4: #010440; 
 
 
- --fontpadrao:arial, verdana, helvetica, sans-serif;
- --fonttexto:'textos', sans-serif;
- --fonttitulos:'titulos', sans-serif; 
- --tituloheaderrr:'headerrr', serif;
+    --fontpadrao:arial, verdana, helvetica, sans-serif;
+    --fonttexto:'textos', sans-serif;
+    --fonttitulos:'titulos', sans-serif; 
+    --tituloheaderrr:'headerrr', serif;
 }
 
 * {
@@ -96,6 +96,15 @@ li {
     text-align: justify;
 }
 
+img#pedralunar {
+
+}
+
+img#fotolua {
+
+}
+
+
 footer {
     background-color: black;
 }
@@ -105,5 +114,6 @@ footer > p {
     padding: 30px;
     color: white;
     font-size: 2em;
+    font-weight: normal;
     font-family: var(--tituloheaderrr);
 }
