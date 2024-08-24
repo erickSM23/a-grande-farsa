@@ -78,7 +78,7 @@ p {
     text-align: center;
     font-family: var(--fonttexto);
     font-weight: 900;
-    font-size: 24px;
+    font-size: 20px;
     line-height: 2em;
     padding: 50px;
 }
@@ -89,10 +89,11 @@ ol {
 
 li {
     padding: 10px;
-    font-size: 24px;
+    font-size: 20px;
     font-weight: 900;
-    line-height: 1.5em;
+    line-height: 30px;
     font-family: var(--fonttexto);
+    text-align: justify;
 }
 
 footer {
