@@ -43,12 +43,9 @@ header {
 header > h1 {
     font-family: var(--tituloheaderrr);
     color: white;
+    font-weight: normal;
     text-align: center;
     padding: 38px;
     font-size: 4em;
     text-decoration: underline;
-}
-
-header > p {
-
 }
