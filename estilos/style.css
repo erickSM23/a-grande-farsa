@@ -5,3 +5,29 @@
     margin: 0px;
     padding: 0px;
 }
+
+@font-face {
+    font-family:'headerrr';
+    src: url('fontes/Empire.ttf') format(opentype);
+}
+@font-face {
+    font-family: 'textos';
+    src: url('fontes/Nauman-Regular.ttf')  format(opentype);
+}
+@font-face {
+    font-family: 'titulos';
+    src: url('fontes/BebasNeue-Regular.ttf') format(opentype);
+}
+:root{
+ --cor0: #040FD9; 
+ --cor1: #040DBF; 
+ --cor2: #030A8C; 
+ --cor3: #020659; 
+ --cor4: #010440; 
+
+
+ --fontpadrao:arial, verdana, helvetica,sans-serif;
+ --fonttexto:'textos',serif;
+ --fonttitulos:'titulos', sans-serif; 
+ --tituloheaderrr:'headerrr';
+}
