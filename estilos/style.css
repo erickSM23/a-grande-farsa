@@ -36,13 +36,17 @@
 
 header {
     background-color: var(--cor1);
+    background: black url("../imagens/img-capa.jpeg") repeat-x ;
+
 }
 
 header > h1 {
     font-family: var(--tituloheaderrr);
+    color: white;
     text-align: center;
-    padding: 20px;
+    padding: 38px;
     font-size: 4em;
+    text-decoration: underline;
 }
 
 header > p {
