@@ -71,6 +71,7 @@ main h1, h2, h3 {
     font-family: var(--fonttitulos);
     font-weight: 500;
     font-size: 45px;
+    padding-top: 60px;
 }
 
 p {
