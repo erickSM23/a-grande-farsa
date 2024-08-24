@@ -70,13 +70,15 @@ main h1, h2, h3 {
     text-align: center;
     font-family: var(--fonttexto);
     padding: 30px;
-    
+    font-weight: 500;
+    font-size: 28px;
 }
 
 p {
     text-align: center;
     font-family: var(--fonttitulos);
-    font-weight: normal;
+    font-weight: 900;
+    font-size: 25px;
 }
 
 footer {
