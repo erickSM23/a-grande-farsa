@@ -35,7 +35,7 @@
 }
 
 body {
-    background-color: black;
+    background: black url("../imagens/espaço.jpeg");
 }
 
 header {
@@ -52,6 +52,7 @@ header > h1 {
     padding: 38px;
     font-size: 3em;
     text-decoration: underline;
+    text-shadow: 2px 2px 2px black;
 }
 
 main {
