@@ -113,6 +113,29 @@ div#fotolua {
     position: relative;
 }
 
+a{
+    padding: 5px;
+    color: var(--cor0);
+    text-decoration: none;
+}
+a:hover{
+    background-color: black;
+    transition-duration: 2s;
+    border-radius: 25px;
+    text-decoration: none;
+}
+
+strong {
+    color: var(--cor2);
+    font-weight: bolder;
+}
+
+u {
+    color: var(--cor2);
+    font-weight: bolder;
+}
+
+
 footer {
     background-color: black;
 }
