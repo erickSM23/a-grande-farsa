@@ -96,6 +96,10 @@ li {
     text-align: justify;
 }
 
+img {
+    width: 100%;
+}
+
 img#pedralunar {
 
 }
@@ -104,6 +108,9 @@ img#fotolua {
 
 }
 
+div#fotolua {
+    margin: 0px -15px 0px -15px;
+}
 
 footer {
     background-color: black;
