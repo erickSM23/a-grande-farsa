@@ -88,10 +88,10 @@ ol {
 }
 
 li {
-    padding: 10px;
-    font-size: 20px;
+    padding: 30px;
+    font-size: 22px;
     font-weight: 900;
-    line-height: 30px;
+    line-height: 31px;
     font-family: var(--fonttexto);
     text-align: justify;
 }
