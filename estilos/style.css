@@ -105,11 +105,12 @@ img#pedralunar {
 }
 
 img#fotolua {
-
+position: absolute;
 }
 
 div#fotolua {
     margin: 0px -15px 0px -15px;
+    position: relative;
 }
 
 footer {
