@@ -101,7 +101,10 @@ img {
 }
 
 img#pedralunar {
-
+    border-radius: 30px;
+    width: 70%;
+    display: block;
+    margin: auto;
 }
 
 img#fotolua {
