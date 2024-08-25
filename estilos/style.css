@@ -75,7 +75,7 @@ main h1, h2, h3 {
 }
 
 p {
-    text-align: center;
+    text-align: justify;
     font-family: var(--fonttexto);
     font-weight: 900;
     font-size: 22px;
